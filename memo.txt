@@ -1,0 +1,14 @@
+Four Steps to Route Happiness
+
+1. Using ngView
+2. Loading the ngRoute library
+3. Importing ngRoute module
+4. Defining routes
+
+
+$http Service Destilled
+
+$http.get (retrieve data)
+$http.post (create new data)
+$http.put (update existing data)
+$http.delete (destroy data)
